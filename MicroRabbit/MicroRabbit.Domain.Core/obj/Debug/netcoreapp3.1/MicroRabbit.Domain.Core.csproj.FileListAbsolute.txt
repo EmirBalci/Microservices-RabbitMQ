@@ -5,3 +5,4 @@ C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.
 C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csprojAssemblyReference.cache

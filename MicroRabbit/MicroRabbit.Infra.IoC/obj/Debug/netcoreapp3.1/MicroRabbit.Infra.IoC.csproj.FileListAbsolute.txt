@@ -3,3 +3,17 @@ C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.
 C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csprojAssemblyReference.cache
 C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.AssemblyInfoInputs.cache
 C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.AssemblyInfo.cs
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CopyComplete
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.dll
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.dll
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.pdb
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb

@@ -1,0 +1,8 @@
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.deps.json
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.csprojAssemblyReference.cache
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfoInputs.cache
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.AssemblyInfo.cs
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+C:\Users\emir.balci\source\repos\Microservices-RabbitMQ\MicroRabbit\MicroRabbit.Banking.Domain\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
