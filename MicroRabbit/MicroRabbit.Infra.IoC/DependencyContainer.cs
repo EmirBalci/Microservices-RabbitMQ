@@ -16,12 +16,14 @@ namespace MicroRabbit.Infra.IoC
     {
         public static void RegisterServices(IServiceCollection services)
         {
+            services.AddTransient<BankingDbContext>();
+
             services.AddTransient<IEventBus, RabbitMQBus>();
 
             services.AddTransient<IAccountService, AccountService>();
 
             services.AddTransient<IAccountRepository, AccountRepository>();
-            services.AddTransient<BankingDbContext>();
+            
         }
     }
 }
